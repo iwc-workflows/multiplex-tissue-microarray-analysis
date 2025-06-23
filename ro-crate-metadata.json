@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-06-21T23:30:15.977306",
+            "datePublished": "2025-06-23T09:28:08.084518",
             "hasPart": [
                 {
                     "@id": "multiplex-tma.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/multiplex-tissue-microarray-analysis",
-            "version": "0.1"
+            "version": "0.1.1"
         },
         {
             "@id": "#galaxy",
