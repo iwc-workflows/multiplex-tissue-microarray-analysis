@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-06-23T09:28:08.084518",
+            "datePublished": "2026-02-19T19:33:13.037632",
             "hasPart": [
                 {
                     "@id": "multiplex-tma.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/multiplex-tissue-microarray-analysis",
-            "version": "0.1.1"
+            "version": "0.1.2"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.30"
+            "engineVersion": ">=0.75.37"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
